@@ -1,0 +1,88 @@
+Debasish Halder
+Profile
+Motivated and results-driven individual with a diverse skill set and a passion 
+for continuous learning and growth. Experienced in various aspects of 
+software development, including frontend and backend technologies, 
+database management, mobile application deployment and generative AI 
+application development.
+Work Experience
+Freelancing
+Present
+● Created Chrome Extension - Using HTML, CSS & JavaScript for a Meesho
+supplier - which helped him to Scrape Data from his supplier's 
+dashboard and represented them in a Tabular form to the required 
+representation.
+● Created Interactive Maps of Indian States - Using HTML, CSS & 
+JavaScript for the organization - Legal Initiative for Forest and 
+Environment.
+Junior Technician (System Administrator) at Sidwaya 
+Telecommunications Private Limited, Kolkata
+January 2019 — July 2019
+Personal Projects
+Android Development Projects
+Technologies Used: Java, XML, SQLite.
+My Android Application Projects codes are uploaded to my GitHub repository.
+● Parks App: Created an Android application that uses an API to display 
+parks in the United States and their details with images.
+● Self Journal App: Created an Android application that allows users to 
+record their daily activities and journal entries with Firebase Database.
+● Smile and Face Detector App: Created an Android application that uses 
+Firebase ML Kit API to detect smiles on faces captured by the device 
+camera.
+Generative AI Projects
+Technologies Used: Python, LangChain, Streamlit.
+• Document Analyzer: This RAG application can answer questions 
+based on the document provided. It uses Open AI API and LangChain 
+framework.
+• YouTube Video Analyser: This application can answer questions 
+based on the YouTube video link provided. It uses Open AI API and 
+LangChain framework.
+Details
+Mahaprabhu Colony, Ashoknagar 
+Kalyangarh, 743233, India, 
+9733603487
+hdebasish@gmail.com
+Nationality
+Indian
+Links
+Github
+YouTube
+Programming Skills
+C
+C++
+Java
+HTML & CSS
+PHP
+JavaScript
+MySQL
+Python
+Express JS
+Mongo DB
+LangChain
+Python
+Languages
+English
+Bengali
+Hindi
+Hobbies
+Coding, Reading, Travelling and 
+Watching Movies.
+Web Development Projects
+Technologies Used: HTML & CSS, JavaScript, Bootstrap, Node JS, Express JS, 
+Mongo DB.
+• IMDb Clone: is a web application designed to replicate some of the 
+functionalities of the popular movie and TV show database IMDb 
+(Internet Movie Database)
+• Postaway (API): A Social Media API facilitates user authentication 
+(login/register), friend connections (follow, accept friend requests, 
+cancel friend requests), and content interaction (post, comment).
+Education
+Bachelor of Computer Application
+2021 — Present
+Extra-curricular activities
+Content creatoratCloudburst 
+I have created and maintained a YouTube channel focused on coding and 
+technology in general, where I produce videos on a variety of programming 
+and technology-related topics. My content includes tutorials on Parse Server 
+CRUD operations, user Authentication and user Registration. Also, I have a 
+video on Bitcoin and Computer hardware-related topics
